@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Carnaval BH: Guia de Folia",
+  "description": "Um planejador inteligente para o Carnaval de Belo Horizonte, ajudando foliões a organizar rotas entre blocos com otimização de tempo e localização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
